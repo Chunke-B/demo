@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgb(16, 14, 14);
+    display: flex;
+}
+/* styling the amazon picture */
+.amazon{
+    width: 100px;
+    height: 100px;
+}
+ .fa-map-marker{
+  color: white;
+}
+.spans{
+    color: rgb(184, 240, 222);
+}
+.span{
+    color: white;
+}
+/* styling the search bar content */
+.button{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.search-1{
+height: 40px;
+width: 450px;
+}
+.search{
+    background-color: rgb(235, 185, 92);
+    padding: 8px;
+    height: 40px;
+    padding: 14px 16px;
+
+}
+.fa-fa-search{
+  padding: 19px;
+}
+.search-bar{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 4px;
+   
+}
+.image{
+    width: 20px;
+    height: 20px;
+}
+
+.span{
+    color: white;
+}
+.fa-fa-sort-desc{
+    color:rgb(64, 60, 60);
+}
